@@ -5,8 +5,9 @@ def process_file(file_path):
     with open(file_path, 'r') as f:
         content = f.read()
 
-    # 處理 print 陳述式
-    modified_content = re.sub(r'(?<!#)(print\s+)([^(\n]*)(\n|$)', r'\1(\2)\3', content, flags=re.MULTILINE)
+    # 處理 Python 3 的 print 陳述式
+    modified_content = re.sub(r'(?<!#)\bprint\b\s+(.*?)(?=\n|$)', r'print(\1)', content, flags=re.MULTILINE)
+
     if modified_content != content:
         with open(file_path, 'w') as f:
             f.write(modified_content)
