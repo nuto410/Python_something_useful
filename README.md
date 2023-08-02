@@ -16,9 +16,9 @@ format
 
 run the python file
 
-output trans.txt
-****************
-*something for *
-*format        *
-*.             *
-****************
+output trans.txt  
+****************  
+*something for *  
+*format        *  
+*.             *  
+****************  
