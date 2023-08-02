@@ -22,3 +22,4 @@ output trans.txt
  *format        *  
  *.             *  
  ****************  
+![image](https://github.com/nuto410/Python_something_useful/assets/95603074/ac260b06-bced-4d07-82f3-b59b2d935a76)
