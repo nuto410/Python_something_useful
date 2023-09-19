@@ -20,5 +20,10 @@ output trans.txt
 ![image](https://github.com/nuto410/Python_something_useful/assets/95603074/ac260b06-bced-4d07-82f3-b59b2d935a76)
 
 
+keyIdentify.py
+for identify what you press keyboard button.
 
+LineLifter.py
+for copy string, it will conbine them into a line.
+for me , it for throw content to google translate.
   
