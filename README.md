@@ -27,3 +27,14 @@ LineLifter.py
 for copy string, it will conbine them into a line.  
 for me , it for throw content to google translate.  
   
+WatermarkVideo.py
+use moviepy package  
+add watermark to video.  
+  
+WatermarkVideoWithInterval.py  
+use moviepy package  
+add watermark to video with interval.  
+  
+
+
+
