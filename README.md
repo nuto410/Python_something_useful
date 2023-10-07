@@ -34,7 +34,11 @@ add watermark to video.
 WatermarkVideoWithInterval.py  
 use moviepy package  
 add watermark to video with interval.  
-  
 
+包子漫畫抓圖.ipynb  
+漫畫很多的話執行時間會非常久  
+目前只在jupyter notebook 上可以執行  
+py檔會出現沒有下載圖片的情形  
+  
 
 
